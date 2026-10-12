@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0058-length-of-last-word) |
 ## Math
 |  |
@@ -21,5 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0066-plus-one) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
