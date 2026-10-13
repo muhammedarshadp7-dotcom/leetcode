@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
@@ -32,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0049-group-anagrams) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
