@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0058-length-of-last-word) |
+| [0139-word-break](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0139-word-break) |
 ## Math
 |  |
 | ------- |
@@ -26,10 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0066-plus-one) |
+| [0139-word-break](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0139-word-break) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0139-word-break) |
 ## Sorting
 |  |
 | ------- |
@@ -42,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0053-maximum-subarray) |
+| [0139-word-break](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0139-word-break) |
 ## Stack
 |  |
 | ------- |
@@ -58,4 +62,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
