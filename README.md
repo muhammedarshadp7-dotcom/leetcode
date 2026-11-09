@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0202-happy-number) |
 | [2235-add-two-integers](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/2469-convert-the-temperature) |
 ## Binary Search
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0139-word-break) |
+| [0202-happy-number](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
@@ -76,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0139-word-break) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
