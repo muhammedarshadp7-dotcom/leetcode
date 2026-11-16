@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0066-plus-one) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0202-happy-number](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
