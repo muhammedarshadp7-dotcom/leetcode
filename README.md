@@ -59,14 +59,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0100-same-tree) |
 ## Trie
 |  |
 | ------- |
@@ -88,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0202-happy-number) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
