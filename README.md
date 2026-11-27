@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0139-word-break) |
 ## Hash Table
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/muhammedarshadp7-dotcom/leetcode/tree/master/0139-word-break) |
 ## Stack
 |  |
